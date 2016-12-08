@@ -1,6 +1,6 @@
 # Self-intro
 
-Here is howlpa1er,which a totally novice developer.
+Here is howlpa1er,which a totally novice developer.  
 Hobby in:  
 Cyber security  
 Game developement  
